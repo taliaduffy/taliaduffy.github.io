@@ -1,6 +1,6 @@
 # Links to my Sandia work
 
-My Sandia report is approved for UUR, so I wanted to make it available here until it's on OSTI.gov.
+My Sandia report is approved for Unclassified Unlimited Release (UUR), so I wanted to make it available here until it's on OSTI.gov.
 
 Click [**here**](https://taliaduffy.github.io/sandia_files/sandia_report_2415407.pdf) to view the Technical Sandia Report I wrote about my research project.
 
