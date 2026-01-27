@@ -1,6 +1,6 @@
 # Links to my Sandia work
 
-Much of my work at Sandia National Labs has been approved for UUR, so I wanted to make it all available here.
+Some of my work at Sandia National Labs has been approved for UUR, so I wanted to make it available here.
 
 Click **[here](https://taliaduffy.github.io/sandia_files/sandia_report_2616541.pdf)** to view the chapter I wrote for an internal handbook on minimum sample size reliability testing. My section covers manufacturing controls methods for high-consequence, single-use systems. 
 
